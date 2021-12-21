@@ -46,7 +46,7 @@
     "@types/jest": "^27.0.1",
     "@types/js-yaml": "^3.12.6",
     "@types/semver": "^7.3.8",
-    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.31.1",
     "concurrently": "^6.2.1",
     "cpx": "^1.5.0",
