@@ -50,7 +50,7 @@
     "handlebars": "^4.7.7",
     "js-yaml": "^4.1.0",
     "moment": "^2.29.3",
-    "semver": "^7.3.5",
+    "semver": "^7.3.8",
     "simple-git": "^3.7.1"
   },
   "devDependencies": {
@@ -59,7 +59,7 @@
     "@types/glob": "^7.2.0",
     "@types/jest": "^27.5.0",
     "@types/js-yaml": "^4.0.3",
-    "@types/semver": "^7.3.9",
+    "@types/semver": "^7.3.13",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
